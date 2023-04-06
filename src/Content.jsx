@@ -1,5 +1,6 @@
-import { SignUp } from "./SignUp";
 import { Routes, Route } from "react-router-dom";
+import { SignUp } from "./SignUp";
+import { Home } from "./Home";
 
 export function Content() {
   return (

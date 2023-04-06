@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <BrowserRouter>
         <Header />
         <Content />
